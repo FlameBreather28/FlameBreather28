@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FlameBreather28)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=flamebreather28&theme=dark&border_radius=5)](https://git.io/streak-stats)
 <!--
 **FlameBreather28/FlameBreather28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
